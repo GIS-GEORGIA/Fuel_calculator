@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T07:37:05.880Z",
-  "updatedTbilisi": "11 აგვ. 2026, 11:37",
+  "updated": "2026-08-11T10:10:27.600Z",
+  "updatedTbilisi": "11 აგვ. 2026, 14:10",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -40,17 +40,6 @@
           }
         },
         {
-          "company": "gulf",
-          "label": "გალფი",
-          "price": 3.59,
-          "product": "G-Force ევრო რეგულარი",
-          "octane": "92",
-          "cross": {
-            "geogid": 3.59,
-            "diff": 0
-          }
-        },
-        {
           "company": "socar",
           "label": "სოკარი",
           "price": 3.63,
@@ -67,6 +56,17 @@
           "price": 3.63,
           "product": "ევრო რეგულარი",
           "octane": "92/93"
+        },
+        {
+          "company": "gulf",
+          "label": "გალფი",
+          "price": 3.65,
+          "product": "G-Force ევრო რეგულარი",
+          "octane": "92",
+          "cross": {
+            "geogid": 3.65,
+            "diff": 0
+          }
         },
         {
           "company": "lukoil",
@@ -132,17 +132,6 @@
           }
         },
         {
-          "company": "gulf",
-          "label": "გალფი",
-          "price": 3.77,
-          "product": "G-Force პრემიუმი",
-          "octane": "95",
-          "cross": {
-            "geogid": 3.77,
-            "diff": 0
-          }
-        },
-        {
           "company": "rompetrol",
           "label": "რომპეტროლი",
           "price": 3.78,
@@ -164,6 +153,17 @@
           "octane": "95",
           "cross": {
             "geogid": 3.82,
+            "diff": 0
+          }
+        },
+        {
+          "company": "gulf",
+          "label": "გალფი",
+          "price": 3.83,
+          "product": "G-Force პრემიუმი",
+          "octane": "95",
+          "cross": {
+            "geogid": 3.83,
             "diff": 0
           }
         }
@@ -294,17 +294,6 @@
           "octane": "51"
         },
         {
-          "company": "gulf",
-          "label": "გალფი",
-          "price": 4.17,
-          "product": "ევრო დიზელი",
-          "octane": "51",
-          "cross": {
-            "geogid": 4.17,
-            "diff": 0
-          }
-        },
-        {
           "company": "wissol",
           "label": "ვისოლი",
           "price": 4.19,
@@ -321,6 +310,17 @@
           "price": 4.22,
           "product": "ევრო დიზელი",
           "octane": "51"
+        },
+        {
+          "company": "gulf",
+          "label": "გალფი",
+          "price": 4.23,
+          "product": "ევრო დიზელი",
+          "octane": "51",
+          "cross": {
+            "geogid": 4.23,
+            "diff": 0
+          }
         }
       ]
     },
@@ -341,8 +341,8 @@
           "product": "თხევადი გაზი (LPG)",
           "octane": "",
           "cross": {
-            "geogid": 2.05,
-            "diff": 0
+            "geogid": 1.75,
+            "diff": 0.3
           }
         }
       ]
@@ -470,31 +470,31 @@
         {
           "name": "G-Force პრემიუმი",
           "octane": "95",
-          "price": 3.77,
+          "price": 3.83,
           "category": "premium"
         },
         {
           "name": "G-Force ევრო რეგულარი",
           "octane": "92",
-          "price": 3.59,
+          "price": 3.65,
           "category": "regular"
         },
         {
           "name": "ევრო რეგულარი",
           "octane": "92",
-          "price": 3.59,
+          "price": 3.65,
           "category": "regular"
         },
         {
           "name": "G-Force ევრო დიზელი",
           "octane": "51",
-          "price": 4.27,
+          "price": 4.33,
           "category": "diesel"
         },
         {
           "name": "ევრო დიზელი",
           "octane": "51",
-          "price": 4.17,
+          "price": 4.23,
           "category": "diesel"
         }
       ]
@@ -724,6 +724,14 @@
       "priceshub": 3.85,
       "geogid": 3.99,
       "diff": -0.14
+    },
+    {
+      "company": "socar",
+      "label": "სოკარი",
+      "category": "lpg",
+      "priceshub": 2.05,
+      "geogid": 1.75,
+      "diff": 0.3
     }
   ]
 }
