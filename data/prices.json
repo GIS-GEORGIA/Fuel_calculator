@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T07:50:16.167Z",
-  "updatedTbilisi": "14 აგვ. 2026, 11:50",
+  "updated": "2026-08-14T10:16:11.489Z",
+  "updatedTbilisi": "14 აგვ. 2026, 14:16",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -18,17 +18,6 @@
           "octane": "92"
         },
         {
-          "company": "connect",
-          "label": "ქონექთი",
-          "price": 3.55,
-          "product": "ევრო რეგულარი",
-          "octane": "92",
-          "cross": {
-            "geogid": 3.58,
-            "diff": -0.03
-          }
-        },
-        {
           "company": "portal",
           "label": "პორტალი",
           "price": 3.58,
@@ -37,6 +26,17 @@
           "cross": {
             "geogid": 3.58,
             "diff": 0
+          }
+        },
+        {
+          "company": "connect",
+          "label": "ქონექთი",
+          "price": 3.6,
+          "product": "ევრო რეგულარი",
+          "octane": "92",
+          "cross": {
+            "geogid": 3.58,
+            "diff": 0.02
           }
         },
         {
@@ -99,17 +99,6 @@
           "octane": "95"
         },
         {
-          "company": "connect",
-          "label": "ქონექთი",
-          "price": 3.7,
-          "product": "ნანო პრემიუმი",
-          "octane": "95",
-          "cross": {
-            "geogid": 3.73,
-            "diff": -0.03
-          }
-        },
-        {
           "company": "portal",
           "label": "პორტალი",
           "price": 3.73,
@@ -118,6 +107,17 @@
           "cross": {
             "geogid": 3.73,
             "diff": 0
+          }
+        },
+        {
+          "company": "connect",
+          "label": "ქონექთი",
+          "price": 3.75,
+          "product": "ნანო პრემიუმი",
+          "octane": "95",
+          "cross": {
+            "geogid": 3.73,
+            "diff": 0.02
           }
         },
         {
@@ -173,17 +173,6 @@
       "label": "სუპერი (98)",
       "ranking": [
         {
-          "company": "connect",
-          "label": "ქონექთი",
-          "price": 3.85,
-          "product": "ნანო სუპერი",
-          "octane": "98",
-          "cross": {
-            "geogid": 3.89,
-            "diff": -0.04
-          }
-        },
-        {
           "company": "portal",
           "label": "პორტალი",
           "price": 3.89,
@@ -192,6 +181,17 @@
           "cross": {
             "geogid": 3.89,
             "diff": 0
+          }
+        },
+        {
+          "company": "connect",
+          "label": "ქონექთი",
+          "price": 3.9,
+          "product": "ნანო სუპერი",
+          "octane": "98",
+          "cross": {
+            "geogid": 3.89,
+            "diff": 0.01
           }
         },
         {
@@ -254,21 +254,21 @@
           "octane": "51"
         },
         {
-          "company": "connect",
-          "label": "ქონექთი",
-          "price": 3.95,
-          "product": "დიზელი",
-          "octane": "51",
-          "cross": {
-            "geogid": 3.99,
-            "diff": -0.04
-          }
-        },
-        {
           "company": "portal",
           "label": "პორტალი",
           "price": 3.99,
           "product": "ეფექტ დიზელი",
+          "octane": "51",
+          "cross": {
+            "geogid": 3.99,
+            "diff": 0
+          }
+        },
+        {
+          "company": "connect",
+          "label": "ქონექთი",
+          "price": 3.99,
+          "product": "დიზელი",
           "octane": "51",
           "cross": {
             "geogid": 3.99,
@@ -390,9 +390,9 @@
       "price": 3.6
     },
     "super": {
-      "company": "connect",
-      "label": "ქონექთი",
-      "price": 3.85
+      "company": "portal",
+      "label": "პორტალი",
+      "price": 3.89
     },
     "diesel": {
       "company": "neogas",
@@ -622,19 +622,19 @@
         {
           "name": "ნანო სუპერი",
           "octane": "98",
-          "price": 3.85,
+          "price": 3.9,
           "category": "super"
         },
         {
           "name": "ნანო პრემიუმი",
           "octane": "95",
-          "price": 3.7,
+          "price": 3.75,
           "category": "premium"
         },
         {
           "name": "ევრო რეგულარი",
           "octane": "92",
-          "price": 3.55,
+          "price": 3.6,
           "category": "regular"
         },
         {
@@ -646,7 +646,7 @@
         {
           "name": "დიზელი",
           "octane": "51",
-          "price": 3.95,
+          "price": 3.99,
           "category": "diesel"
         }
       ]
