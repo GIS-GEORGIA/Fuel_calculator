@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-16T21:34:04.244Z",
-  "updatedTbilisi": "17 აგვ. 2026, 01:34",
+  "updated": "2026-08-17T01:54:56.520Z",
+  "updatedTbilisi": "17 აგვ. 2026, 05:54",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -605,7 +605,7 @@
         {
           "name": "ევრო დიზელი",
           "octane": "51",
-          "price": 4.09,
+          "price": 4.19,
           "category": "diesel"
         },
         {
