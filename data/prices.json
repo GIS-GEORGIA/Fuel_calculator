@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T09:57:22.976Z",
-  "updatedTbilisi": "17 აგვ. 2026, 13:57",
+  "updated": "2026-08-17T13:05:24.402Z",
+  "updatedTbilisi": "17 აგვ. 2026, 17:05",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -94,7 +94,7 @@
         {
           "company": "neogas",
           "label": "ნეოგაზი",
-          "price": 3.6,
+          "price": 3.65,
           "product": "პრემიუმი",
           "octane": "95"
         },
@@ -249,7 +249,7 @@
         {
           "company": "neogas",
           "label": "ნეოგაზი",
-          "price": 3.55,
+          "price": 3.6,
           "product": "ევრო დიზელი",
           "octane": "51"
         },
@@ -330,7 +330,7 @@
         {
           "company": "neogas",
           "label": "ნეოგაზი",
-          "price": 1.7,
+          "price": 1.75,
           "product": "თხევადი გაზი (LPG)",
           "octane": ""
         },
@@ -387,7 +387,7 @@
     "premium": {
       "company": "neogas",
       "label": "ნეოგაზი",
-      "price": 3.6
+      "price": 3.65
     },
     "super": {
       "company": "portal",
@@ -397,12 +397,12 @@
     "diesel": {
       "company": "neogas",
       "label": "ნეოგაზი",
-      "price": 3.55
+      "price": 3.6
     },
     "lpg": {
       "company": "neogas",
       "label": "ნეოგაზი",
-      "price": 1.7
+      "price": 1.75
     },
     "cng": {
       "company": "socar",
@@ -686,7 +686,7 @@
         {
           "name": "პრემიუმი",
           "octane": "95",
-          "price": 3.6,
+          "price": 3.65,
           "category": "premium"
         },
         {
@@ -698,7 +698,7 @@
         {
           "name": "ევრო დიზელი",
           "octane": "51",
-          "price": 3.55,
+          "price": 3.6,
           "category": "diesel"
         },
         {
@@ -710,7 +710,7 @@
         {
           "name": "თხევადი გაზი (LPG)",
           "octane": "",
-          "price": 1.7,
+          "price": 1.75,
           "category": "lpg"
         }
       ]
