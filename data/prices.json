@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T03:57:44.645Z",
-  "updatedTbilisi": "18 აგვ. 2026, 07:57",
+  "updated": "2026-08-18T07:04:30.654Z",
+  "updatedTbilisi": "18 აგვ. 2026, 11:04",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -318,8 +318,8 @@
           "product": "დიზელ ენერჯი",
           "octane": "51",
           "cross": {
-            "geogid": 4.24,
-            "diff": 0.05
+            "geogid": 4.29,
+            "diff": 0
           }
         }
       ]
