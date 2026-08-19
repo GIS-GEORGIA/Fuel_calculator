@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T09:49:11.511Z",
-  "updatedTbilisi": "19 აგვ. 2026, 13:49",
+  "updated": "2026-08-19T13:08:39.082Z",
+  "updatedTbilisi": "19 აგვ. 2026, 17:08",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -282,8 +282,8 @@
           "product": "ევრო 5 დიზელი",
           "octane": "53",
           "cross": {
-            "geogid": 4.17,
-            "diff": 0.03
+            "geogid": 4.2,
+            "diff": 0
           }
         },
         {
