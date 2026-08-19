@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T07:05:20.890Z",
-  "updatedTbilisi": "19 აგვ. 2026, 11:05",
+  "updated": "2026-08-19T09:49:11.511Z",
+  "updatedTbilisi": "19 აგვ. 2026, 13:49",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -13,7 +13,7 @@
         {
           "company": "neogas",
           "label": "ნეოგაზი",
-          "price": 3.45,
+          "price": 3.5,
           "product": "რეგულარი",
           "octane": "92"
         },
@@ -94,7 +94,7 @@
         {
           "company": "neogas",
           "label": "ნეოგაზი",
-          "price": 3.65,
+          "price": 3.7,
           "product": "პრემიუმი",
           "octane": "95"
         },
@@ -249,7 +249,7 @@
         {
           "company": "neogas",
           "label": "ნეოგაზი",
-          "price": 3.6,
+          "price": 3.65,
           "product": "ევრო დიზელი",
           "octane": "51"
         },
@@ -278,12 +278,12 @@
         {
           "company": "socar",
           "label": "სოკარი",
-          "price": 4.17,
+          "price": 4.2,
           "product": "ევრო 5 დიზელი",
           "octane": "53",
           "cross": {
             "geogid": 4.17,
-            "diff": 0
+            "diff": 0.03
           }
         },
         {
@@ -382,12 +382,12 @@
     "regular": {
       "company": "neogas",
       "label": "ნეოგაზი",
-      "price": 3.45
+      "price": 3.5
     },
     "premium": {
       "company": "neogas",
       "label": "ნეოგაზი",
-      "price": 3.65
+      "price": 3.7
     },
     "super": {
       "company": "portal",
@@ -397,7 +397,7 @@
     "diesel": {
       "company": "neogas",
       "label": "ნეოგაზი",
-      "price": 3.6
+      "price": 3.65
     },
     "lpg": {
       "company": "neogas",
@@ -435,13 +435,13 @@
         {
           "name": "ნანო ევრო 5 დიზელი",
           "octane": "53",
-          "price": 4.26,
+          "price": 4.3,
           "category": "diesel"
         },
         {
           "name": "ევრო 5 დიზელი",
           "octane": "53",
-          "price": 4.17,
+          "price": 4.2,
           "category": "diesel"
         },
         {
@@ -686,19 +686,19 @@
         {
           "name": "პრემიუმი",
           "octane": "95",
-          "price": 3.65,
+          "price": 3.7,
           "category": "premium"
         },
         {
           "name": "რეგულარი",
           "octane": "92",
-          "price": 3.45,
+          "price": 3.5,
           "category": "regular"
         },
         {
           "name": "ევრო დიზელი",
           "octane": "51",
-          "price": 3.6,
+          "price": 3.65,
           "category": "diesel"
         },
         {
