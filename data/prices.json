@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T03:58:17.113Z",
-  "updatedTbilisi": "20 აგვ. 2026, 07:58",
+  "updated": "2026-08-20T07:05:54.895Z",
+  "updatedTbilisi": "20 აგვ. 2026, 11:05",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -294,13 +294,6 @@
           "octane": "51"
         },
         {
-          "company": "lukoil",
-          "label": "ლუკოილი",
-          "price": 4.22,
-          "product": "ევრო დიზელი",
-          "octane": "51"
-        },
-        {
           "company": "gulf",
           "label": "გალფი",
           "price": 4.23,
@@ -321,6 +314,13 @@
             "geogid": 4.29,
             "diff": 0
           }
+        },
+        {
+          "company": "lukoil",
+          "label": "ლუკოილი",
+          "price": 4.4,
+          "product": "ევრო დიზელი",
+          "octane": "51"
         }
       ]
     },
@@ -675,7 +675,7 @@
         {
           "name": "ევრო დიზელი",
           "octane": "51",
-          "price": 4.22,
+          "price": 4.4,
           "category": "diesel"
         }
       ]
