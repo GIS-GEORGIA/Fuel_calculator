@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T09:50:02.425Z",
-  "updatedTbilisi": "20 აგვ. 2026, 13:50",
+  "updated": "2026-08-20T13:10:49.495Z",
+  "updatedTbilisi": "20 აგვ. 2026, 17:10",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -260,8 +260,8 @@
           "product": "ეფექტ დიზელი",
           "octane": "51",
           "cross": {
-            "geogid": 3.99,
-            "diff": 0.1
+            "geogid": 4.09,
+            "diff": 0
           }
         },
         {
@@ -271,8 +271,8 @@
           "product": "დიზელი",
           "octane": "51",
           "cross": {
-            "geogid": 3.99,
-            "diff": 0.11
+            "geogid": 4.09,
+            "diff": 0.01
           }
         },
         {
@@ -717,22 +717,6 @@
     }
   },
   "discrepancies": [
-    {
-      "company": "portal",
-      "label": "პორტალი",
-      "category": "diesel",
-      "priceshub": 4.09,
-      "geogid": 3.99,
-      "diff": 0.1
-    },
-    {
-      "company": "connect",
-      "label": "ქონექთი",
-      "category": "diesel",
-      "priceshub": 4.1,
-      "geogid": 3.99,
-      "diff": 0.11
-    },
     {
       "company": "socar",
       "label": "სოკარი",
