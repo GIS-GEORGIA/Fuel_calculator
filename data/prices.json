@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T13:10:49.495Z",
-  "updatedTbilisi": "20 აგვ. 2026, 17:10",
+  "updated": "2026-08-20T15:49:24.004Z",
+  "updatedTbilisi": "20 აგვ. 2026, 19:49",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -56,17 +56,6 @@
           "price": 3.64,
           "product": "ევრო რეგულარი",
           "octane": "92/93"
-        },
-        {
-          "company": "gulf",
-          "label": "გალფი",
-          "price": 3.65,
-          "product": "G-Force ევრო რეგულარი",
-          "octane": "92",
-          "cross": {
-            "geogid": 3.65,
-            "diff": 0
-          }
         },
         {
           "company": "lukoil",
@@ -150,17 +139,6 @@
           }
         },
         {
-          "company": "gulf",
-          "label": "გალფი",
-          "price": 3.83,
-          "product": "G-Force პრემიუმი",
-          "octane": "95",
-          "cross": {
-            "geogid": 3.83,
-            "diff": 0
-          }
-        },
-        {
           "company": "rompetrol",
           "label": "რომპეტროლი",
           "price": 3.83,
@@ -224,17 +202,6 @@
           "octane": "98"
         },
         {
-          "company": "gulf",
-          "label": "გალფი",
-          "price": 4.27,
-          "product": "G-Force სუპერი",
-          "octane": "98",
-          "cross": {
-            "geogid": 4.27,
-            "diff": 0
-          }
-        },
-        {
           "company": "rompetrol",
           "label": "რომპეტროლი",
           "price": 4.27,
@@ -292,17 +259,6 @@
           "price": 4.22,
           "product": "ევრო დიზელი",
           "octane": "51"
-        },
-        {
-          "company": "gulf",
-          "label": "გალფი",
-          "price": 4.23,
-          "product": "ევრო დიზელი",
-          "octane": "51",
-          "cross": {
-            "geogid": 4.23,
-            "diff": 0
-          }
         },
         {
           "company": "wissol",
@@ -455,47 +411,6 @@
           "octane": "",
           "price": 1.6,
           "category": "cng"
-        }
-      ]
-    },
-    "gulf": {
-      "label": "გალფი",
-      "products": [
-        {
-          "name": "G-Force სუპერი",
-          "octane": "98",
-          "price": 4.27,
-          "category": "super"
-        },
-        {
-          "name": "G-Force პრემიუმი",
-          "octane": "95",
-          "price": 3.83,
-          "category": "premium"
-        },
-        {
-          "name": "G-Force ევრო რეგულარი",
-          "octane": "92",
-          "price": 3.65,
-          "category": "regular"
-        },
-        {
-          "name": "ევრო რეგულარი",
-          "octane": "92",
-          "price": 3.65,
-          "category": "regular"
-        },
-        {
-          "name": "G-Force ევრო დიზელი",
-          "octane": "51",
-          "price": 4.33,
-          "category": "diesel"
-        },
-        {
-          "name": "ევრო დიზელი",
-          "octane": "51",
-          "price": 4.23,
-          "category": "diesel"
         }
       ]
     },
