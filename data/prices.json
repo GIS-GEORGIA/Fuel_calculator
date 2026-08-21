@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T01:57:14.829Z",
-  "updatedTbilisi": "21 აგვ. 2026, 05:57",
+  "updated": "2026-08-21T04:01:15.888Z",
+  "updatedTbilisi": "21 აგვ. 2026, 08:01",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -71,8 +71,8 @@
           "product": "ევრო რეგულარი",
           "octane": "92",
           "cross": {
-            "geogid": 3.68,
-            "diff": 0.03
+            "geogid": 3.71,
+            "diff": 0
           }
         }
       ]
@@ -141,8 +141,8 @@
           "product": "ეკო პრემიუმი",
           "octane": "95",
           "cross": {
-            "geogid": 3.82,
-            "diff": 0.03
+            "geogid": 3.85,
+            "diff": 0
           }
         }
       ]
@@ -197,8 +197,8 @@
           "product": "ეკო სუპერი",
           "octane": "98",
           "cross": {
-            "geogid": 4.23,
-            "diff": 0.03
+            "geogid": 4.26,
+            "diff": 0
           }
         },
         {
@@ -267,8 +267,8 @@
           "product": "დიზელ ენერჯი",
           "octane": "51",
           "cross": {
-            "geogid": 4.29,
-            "diff": 0.05
+            "geogid": 4.34,
+            "diff": 0
           }
         },
         {
