@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T21:43:22.221Z",
-  "updatedTbilisi": "21 აგვ. 2026, 01:43",
+  "updated": "2026-08-21T01:57:14.829Z",
+  "updatedTbilisi": "21 აგვ. 2026, 05:57",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -67,12 +67,12 @@
         {
           "company": "wissol",
           "label": "ვისოლი",
-          "price": 3.68,
+          "price": 3.71,
           "product": "ევრო რეგულარი",
           "octane": "92",
           "cross": {
             "geogid": 3.68,
-            "diff": 0
+            "diff": 0.03
           }
         }
       ]
@@ -128,22 +128,22 @@
           "octane": "95"
         },
         {
-          "company": "wissol",
-          "label": "ვისოლი",
-          "price": 3.82,
-          "product": "ეკო პრემიუმი",
-          "octane": "95",
-          "cross": {
-            "geogid": 3.82,
-            "diff": 0
-          }
-        },
-        {
           "company": "rompetrol",
           "label": "რომპეტროლი",
           "price": 3.83,
           "product": "ეფიქს პრემიუმი",
           "octane": "95"
+        },
+        {
+          "company": "wissol",
+          "label": "ვისოლი",
+          "price": 3.85,
+          "product": "ეკო პრემიუმი",
+          "octane": "95",
+          "cross": {
+            "geogid": 3.82,
+            "diff": 0.03
+          }
         }
       ]
     },
@@ -173,17 +173,6 @@
           }
         },
         {
-          "company": "wissol",
-          "label": "ვისოლი",
-          "price": 4.23,
-          "product": "ეკო სუპერი",
-          "octane": "98",
-          "cross": {
-            "geogid": 4.23,
-            "diff": 0
-          }
-        },
-        {
           "company": "socar",
           "label": "სოკარი",
           "price": 4.24,
@@ -200,6 +189,17 @@
           "price": 4.24,
           "product": "სუპერ ექტო",
           "octane": "98"
+        },
+        {
+          "company": "wissol",
+          "label": "ვისოლი",
+          "price": 4.26,
+          "product": "ეკო სუპერი",
+          "octane": "98",
+          "cross": {
+            "geogid": 4.23,
+            "diff": 0.03
+          }
         },
         {
           "company": "rompetrol",
@@ -263,12 +263,12 @@
         {
           "company": "wissol",
           "label": "ვისოლი",
-          "price": 4.29,
+          "price": 4.34,
           "product": "დიზელ ენერჯი",
           "octane": "51",
           "cross": {
             "geogid": 4.29,
-            "diff": 0
+            "diff": 0.05
           }
         },
         {
@@ -420,37 +420,37 @@
         {
           "name": "ეკო სუპერი",
           "octane": "98",
-          "price": 4.23,
+          "price": 4.26,
           "category": "super"
         },
         {
           "name": "ეკო პრემიუმი",
           "octane": "95",
-          "price": 3.82,
+          "price": 3.85,
           "category": "premium"
         },
         {
           "name": "ევრო რეგულარი",
           "octane": "92",
-          "price": 3.68,
+          "price": 3.71,
           "category": "regular"
         },
         {
           "name": "ეკო დიზელი",
           "octane": "51",
-          "price": 4.34,
+          "price": 4.39,
           "category": "diesel"
         },
         {
           "name": "ევრო დიზელი",
           "octane": "51",
-          "price": 4.39,
+          "price": 4.44,
           "category": "diesel"
         },
         {
           "name": "დიზელ ენერჯი",
           "octane": "51",
-          "price": 4.29,
+          "price": 4.34,
           "category": "diesel"
         },
         {
