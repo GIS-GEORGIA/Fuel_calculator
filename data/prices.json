@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T07:07:14.573Z",
-  "updatedTbilisi": "21 აგვ. 2026, 11:07",
+  "updated": "2026-08-21T09:52:07.219Z",
+  "updatedTbilisi": "21 აგვ. 2026, 13:52",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -256,7 +256,7 @@
         {
           "company": "rompetrol",
           "label": "რომპეტროლი",
-          "price": 4.22,
+          "price": 4.29,
           "product": "ევრო დიზელი",
           "octane": "51"
         },
@@ -485,13 +485,13 @@
         {
           "name": "ეფიქს ევრო დიზელი",
           "octane": "51",
-          "price": 4.32,
+          "price": 4.36,
           "category": "diesel"
         },
         {
           "name": "ევრო დიზელი",
           "octane": "51",
-          "price": 4.22,
+          "price": 4.29,
           "category": "diesel"
         }
       ]
