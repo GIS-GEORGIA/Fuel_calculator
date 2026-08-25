@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T07:08:19.415Z",
-  "updatedTbilisi": "25 აგვ. 2026, 11:08",
+  "updated": "2026-08-25T09:51:34.704Z",
+  "updatedTbilisi": "25 აგვ. 2026, 13:51",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -216,7 +216,7 @@
         {
           "company": "neogas",
           "label": "ნეოგაზი",
-          "price": 3.8,
+          "price": 3.9,
           "product": "ევრო დიზელი",
           "octane": "51"
         },
@@ -353,7 +353,7 @@
     "diesel": {
       "company": "neogas",
       "label": "ნეოგაზი",
-      "price": 3.8
+      "price": 3.9
     },
     "lpg": {
       "company": "neogas",
@@ -613,7 +613,7 @@
         {
           "name": "ევრო დიზელი",
           "octane": "51",
-          "price": 3.8,
+          "price": 3.9,
           "category": "diesel"
         },
         {
