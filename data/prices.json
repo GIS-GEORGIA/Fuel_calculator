@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T21:43:53.410Z",
-  "updatedTbilisi": "26 აგვ. 2026, 01:43",
+  "updated": "2026-08-26T01:58:15.004Z",
+  "updatedTbilisi": "26 აგვ. 2026, 05:58",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -263,12 +263,12 @@
         {
           "company": "wissol",
           "label": "ვისოლი",
-          "price": 4.34,
+          "price": 4.37,
           "product": "დიზელ ენერჯი",
           "octane": "51",
           "cross": {
             "geogid": 4.34,
-            "diff": 0
+            "diff": 0.03
           }
         },
         {
@@ -438,19 +438,19 @@
         {
           "name": "ეკო დიზელი",
           "octane": "51",
-          "price": 4.39,
+          "price": 4.42,
           "category": "diesel"
         },
         {
           "name": "ევრო დიზელი",
           "octane": "51",
-          "price": 4.44,
+          "price": 4.47,
           "category": "diesel"
         },
         {
           "name": "დიზელ ენერჯი",
           "octane": "51",
-          "price": 4.34,
+          "price": 4.37,
           "category": "diesel"
         },
         {
