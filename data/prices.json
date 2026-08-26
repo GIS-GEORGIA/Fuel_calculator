@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T09:57:13.617Z",
-  "updatedTbilisi": "26 აგვ. 2026, 13:57",
+  "updated": "2026-08-26T13:16:25.519Z",
+  "updatedTbilisi": "26 აგვ. 2026, 17:16",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -53,8 +53,8 @@
           "product": "ნანო ევრო რეგულარი",
           "octane": "92/93",
           "cross": {
-            "geogid": 3.63,
-            "diff": 0.04
+            "geogid": 3.67,
+            "diff": 0
           }
         },
         {
@@ -123,8 +123,8 @@
           "product": "ნანო პრემიუმი",
           "octane": "95",
           "cross": {
-            "geogid": 3.8,
-            "diff": 0.04
+            "geogid": 3.84,
+            "diff": 0
           }
         },
         {
@@ -186,8 +186,8 @@
           "product": "ნანო სუპერი",
           "octane": "98",
           "cross": {
-            "geogid": 4.24,
-            "diff": 0.02
+            "geogid": 4.26,
+            "diff": 0
           }
         },
         {
@@ -249,8 +249,8 @@
           "product": "ევრო 5 დიზელი",
           "octane": "53",
           "cross": {
-            "geogid": 4.2,
-            "diff": 0.1
+            "geogid": 4.3,
+            "diff": 0
           }
         },
         {
@@ -631,14 +631,5 @@
       ]
     }
   },
-  "discrepancies": [
-    {
-      "company": "socar",
-      "label": "სოკარი",
-      "category": "diesel",
-      "priceshub": 4.3,
-      "geogid": 4.2,
-      "diff": 0.1
-    }
-  ]
+  "discrepancies": []
 }
