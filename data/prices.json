@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-31T05:34:38.740Z",
-  "updatedTbilisi": "31 აგვ. 2026, 09:34",
+  "updated": "2026-08-31T13:50:05.301Z",
+  "updatedTbilisi": "31 აგვ. 2026, 17:50",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -293,11 +293,11 @@
         {
           "company": "socar",
           "label": "სოკარი",
-          "price": 1.99,
+          "price": 1.75,
           "product": "თხევადი გაზი (LPG)",
           "octane": "",
           "cross": {
-            "geogid": 1.99,
+            "geogid": 1.75,
             "diff": 0
           }
         }
@@ -403,7 +403,7 @@
         {
           "name": "თხევადი გაზი (LPG)",
           "octane": "",
-          "price": 1.99,
+          "price": 1.75,
           "category": "lpg"
         },
         {
