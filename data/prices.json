@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01T00:37:15.984Z",
-  "updatedTbilisi": "1 სექ. 2026, 04:37",
+  "updated": "2026-09-01T08:38:59.097Z",
+  "updatedTbilisi": "1 სექ. 2026, 12:38",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -134,8 +134,8 @@
           "product": "ეკო პრემიუმი",
           "octane": "95",
           "cross": {
-            "geogid": 3.85,
-            "diff": 0.03
+            "geogid": 3.88,
+            "diff": 0
           }
         },
         {
@@ -197,8 +197,8 @@
           "product": "ეკო სუპერი",
           "octane": "98",
           "cross": {
-            "geogid": 4.26,
-            "diff": 0.03
+            "geogid": 4.27,
+            "diff": 0.02
           }
         },
         {
@@ -216,20 +216,9 @@
         {
           "company": "neogas",
           "label": "ნეოგაზი",
-          "price": 3.9,
+          "price": 4,
           "product": "ევრო დიზელი",
           "octane": "51"
-        },
-        {
-          "company": "portal",
-          "label": "პორტალი",
-          "price": 4.09,
-          "product": "ეფექტ დიზელი",
-          "octane": "51",
-          "cross": {
-            "geogid": 4.19,
-            "diff": -0.1
-          }
         },
         {
           "company": "connect",
@@ -240,6 +229,17 @@
           "cross": {
             "geogid": 4.19,
             "diff": -0.09
+          }
+        },
+        {
+          "company": "portal",
+          "label": "პორტალი",
+          "price": 4.19,
+          "product": "ეფექტ დიზელი",
+          "octane": "51",
+          "cross": {
+            "geogid": 4.19,
+            "diff": 0
           }
         },
         {
@@ -267,8 +267,8 @@
           "product": "დიზელ ენერჯი",
           "octane": "51",
           "cross": {
-            "geogid": 4.37,
-            "diff": 0.05
+            "geogid": 4.42,
+            "diff": 0
           }
         },
         {
@@ -293,12 +293,12 @@
         {
           "company": "socar",
           "label": "სოკარი",
-          "price": 1.75,
+          "price": 1.99,
           "product": "თხევადი გაზი (LPG)",
           "octane": "",
           "cross": {
             "geogid": 1.75,
-            "diff": 0
+            "diff": 0.24
           }
         }
       ]
@@ -353,7 +353,7 @@
     "diesel": {
       "company": "neogas",
       "label": "ნეოგაზი",
-      "price": 3.9
+      "price": 4
     },
     "lpg": {
       "company": "neogas",
@@ -403,7 +403,7 @@
         {
           "name": "თხევადი გაზი (LPG)",
           "octane": "",
-          "price": 1.75,
+          "price": 1.99,
           "category": "lpg"
         },
         {
@@ -520,13 +520,13 @@
         {
           "name": "ევრო დიზელი",
           "octane": "51",
-          "price": 4.24,
+          "price": 4.34,
           "category": "diesel"
         },
         {
           "name": "ეფექტ დიზელი",
           "octane": "51",
-          "price": 4.09,
+          "price": 4.19,
           "category": "diesel"
         }
       ]
@@ -613,7 +613,7 @@
         {
           "name": "ევრო დიზელი",
           "octane": "51",
-          "price": 3.9,
+          "price": 4,
           "category": "diesel"
         },
         {
@@ -641,20 +641,20 @@
       "diff": -0.09
     },
     {
-      "company": "portal",
-      "label": "პორტალი",
-      "category": "diesel",
-      "priceshub": 4.09,
-      "geogid": 4.19,
-      "diff": -0.1
-    },
-    {
       "company": "connect",
       "label": "ქონექთი",
       "category": "diesel",
       "priceshub": 4.1,
       "geogid": 4.19,
       "diff": -0.09
+    },
+    {
+      "company": "socar",
+      "label": "სოკარი",
+      "category": "lpg",
+      "priceshub": 1.99,
+      "geogid": 1.75,
+      "diff": 0.24
     }
   ]
 }
