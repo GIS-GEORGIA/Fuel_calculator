@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T04:33:25.277Z",
-  "updatedTbilisi": "3 სექ. 2026, 08:33",
+  "updated": "2026-09-03T11:14:10.611Z",
+  "updatedTbilisi": "3 სექ. 2026, 15:14",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -36,6 +36,17 @@
           "octane": "92/93",
           "cross": {
             "geogid": 3.63,
+            "diff": 0
+          }
+        },
+        {
+          "company": "socar",
+          "label": "სოკარი",
+          "price": 3.67,
+          "product": "ნანო ევრო რეგულარი",
+          "octane": "92/93",
+          "cross": {
+            "geogid": 3.67,
             "diff": 0
           }
         },
@@ -99,6 +110,17 @@
           }
         },
         {
+          "company": "socar",
+          "label": "სოკარი",
+          "price": 3.84,
+          "product": "ნანო პრემიუმი",
+          "octane": "95",
+          "cross": {
+            "geogid": 3.84,
+            "diff": 0
+          }
+        },
+        {
           "company": "lukoil",
           "label": "ლუკოილი",
           "price": 3.86,
@@ -147,6 +169,17 @@
           "octane": "98",
           "cross": {
             "geogid": 3.99,
+            "diff": 0
+          }
+        },
+        {
+          "company": "socar",
+          "label": "სოკარი",
+          "price": 4.26,
+          "product": "ნანო სუპერი",
+          "octane": "98",
+          "cross": {
+            "geogid": 4.26,
             "diff": 0
           }
         },
@@ -210,6 +243,17 @@
           }
         },
         {
+          "company": "socar",
+          "label": "სოკარი",
+          "price": 4.34,
+          "product": "ევრო 5 დიზელი",
+          "octane": "53",
+          "cross": {
+            "geogid": 4.34,
+            "diff": 0
+          }
+        },
+        {
           "company": "rompetrol",
           "label": "რომპეტროლი",
           "price": 4.44,
@@ -245,12 +289,34 @@
           "price": 1.7,
           "product": "თხევადი გაზი (LPG)",
           "octane": ""
+        },
+        {
+          "company": "socar",
+          "label": "სოკარი",
+          "price": 1.99,
+          "product": "თხევადი გაზი (LPG)",
+          "octane": "",
+          "cross": {
+            "geogid": 1.99,
+            "diff": 0
+          }
         }
       ]
     },
     "cng": {
       "label": "ბუნებრივი აირი (CNG)",
       "ranking": [
+        {
+          "company": "socar",
+          "label": "სოკარი",
+          "price": 1.6,
+          "product": "ბუნებრივი აირი (CNG)",
+          "octane": "",
+          "cross": {
+            "geogid": 1.6,
+            "diff": 0
+          }
+        },
         {
           "company": "neogas",
           "label": "ნეოგაზი",
@@ -295,12 +361,59 @@
       "price": 1.7
     },
     "cng": {
-      "company": "neogas",
-      "label": "ნეოგაზი",
+      "company": "socar",
+      "label": "სოკარი",
       "price": 1.6
     }
   },
   "companies": {
+    "socar": {
+      "label": "სოკარი",
+      "products": [
+        {
+          "name": "ნანო სუპერი",
+          "octane": "98",
+          "price": 4.26,
+          "category": "super"
+        },
+        {
+          "name": "ნანო პრემიუმი",
+          "octane": "95",
+          "price": 3.84,
+          "category": "premium"
+        },
+        {
+          "name": "ნანო ევრო რეგულარი",
+          "octane": "92/93",
+          "price": 3.67,
+          "category": "regular"
+        },
+        {
+          "name": "ნანო ევრო 5 დიზელი",
+          "octane": "53",
+          "price": 4.44,
+          "category": "diesel"
+        },
+        {
+          "name": "ევრო 5 დიზელი",
+          "octane": "53",
+          "price": 4.34,
+          "category": "diesel"
+        },
+        {
+          "name": "თხევადი გაზი (LPG)",
+          "octane": "",
+          "price": 1.99,
+          "category": "lpg"
+        },
+        {
+          "name": "ბუნებრივი აირი (CNG)",
+          "octane": "",
+          "price": 1.6,
+          "category": "cng"
+        }
+      ]
+    },
     "wissol": {
       "label": "ვისოლი",
       "products": [
