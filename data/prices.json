@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-05T15:13:49.424Z",
-  "updatedTbilisi": "5 სექ. 2026, 19:13",
+  "updated": "2026-09-05T17:21:24.145Z",
+  "updatedTbilisi": "5 სექ. 2026, 21:21",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -234,12 +234,12 @@
         {
           "company": "portal",
           "label": "პორტალი",
-          "price": 4.19,
+          "price": 4.29,
           "product": "ეფექტ დიზელი",
           "octane": "51",
           "cross": {
             "geogid": 4.29,
-            "diff": -0.1
+            "diff": 0
           }
         },
         {
@@ -520,13 +520,13 @@
         {
           "name": "ევრო დიზელი",
           "octane": "51",
-          "price": 4.34,
+          "price": 4.44,
           "category": "diesel"
         },
         {
           "name": "ეფექტ დიზელი",
           "octane": "51",
-          "price": 4.19,
+          "price": 4.29,
           "category": "diesel"
         }
       ]
@@ -647,14 +647,6 @@
       "priceshub": 3.9,
       "geogid": 3.99,
       "diff": -0.09
-    },
-    {
-      "company": "portal",
-      "label": "პორტალი",
-      "category": "diesel",
-      "priceshub": 4.19,
-      "geogid": 4.29,
-      "diff": -0.1
     },
     {
       "company": "connect",
