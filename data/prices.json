@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-15T16:59:05.295Z",
-  "updatedTbilisi": "15 სექ. 2026, 20:59",
+  "updated": "2026-09-15T21:20:43.375Z",
+  "updatedTbilisi": "16 სექ. 2026, 01:20",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -16,6 +16,17 @@
           "price": 3.5,
           "product": "რეგულარი",
           "octane": "92"
+        },
+        {
+          "company": "gulf",
+          "label": "გალფი",
+          "price": 3.65,
+          "product": "G-Force ევრო რეგულარი",
+          "octane": "92",
+          "cross": {
+            "geogid": 3.65,
+            "diff": 0
+          }
         },
         {
           "company": "connect",
@@ -86,6 +97,17 @@
           "price": 3.7,
           "product": "პრემიუმი",
           "octane": "95"
+        },
+        {
+          "company": "gulf",
+          "label": "გალფი",
+          "price": 3.83,
+          "product": "G-Force პრემიუმი",
+          "octane": "95",
+          "cross": {
+            "geogid": 3.83,
+            "diff": 0
+          }
         },
         {
           "company": "connect",
@@ -173,6 +195,17 @@
           }
         },
         {
+          "company": "gulf",
+          "label": "გალფი",
+          "price": 4.27,
+          "product": "G-Force სუპერი",
+          "octane": "98",
+          "cross": {
+            "geogid": 4.27,
+            "diff": 0
+          }
+        },
+        {
           "company": "lukoil",
           "label": "ლუკოილი",
           "price": 4.4,
@@ -213,6 +246,17 @@
     "diesel": {
       "label": "დიზელი",
       "ranking": [
+        {
+          "company": "gulf",
+          "label": "გალფი",
+          "price": 4.23,
+          "product": "ევრო დიზელი",
+          "octane": "51",
+          "cross": {
+            "geogid": 4.23,
+            "diff": 0
+          }
+        },
         {
           "company": "neogas",
           "label": "ნეოგაზი",
@@ -351,9 +395,9 @@
       "price": 4.05
     },
     "diesel": {
-      "company": "neogas",
-      "label": "ნეოგაზი",
-      "price": 4.3
+      "company": "gulf",
+      "label": "გალფი",
+      "price": 4.23
     },
     "lpg": {
       "company": "neogas",
@@ -411,6 +455,47 @@
           "octane": "",
           "price": 1.6,
           "category": "cng"
+        }
+      ]
+    },
+    "gulf": {
+      "label": "გალფი",
+      "products": [
+        {
+          "name": "G-Force სუპერი",
+          "octane": "98",
+          "price": 4.27,
+          "category": "super"
+        },
+        {
+          "name": "G-Force პრემიუმი",
+          "octane": "95",
+          "price": 3.83,
+          "category": "premium"
+        },
+        {
+          "name": "G-Force ევრო რეგულარი",
+          "octane": "92",
+          "price": 3.65,
+          "category": "regular"
+        },
+        {
+          "name": "ევრო რეგულარი",
+          "octane": "92",
+          "price": 3.65,
+          "category": "regular"
+        },
+        {
+          "name": "G-Force ევრო დიზელი",
+          "octane": "51",
+          "price": 4.33,
+          "category": "diesel"
+        },
+        {
+          "name": "ევრო დიზელი",
+          "octane": "51",
+          "price": 4.23,
+          "category": "diesel"
         }
       ]
     },
