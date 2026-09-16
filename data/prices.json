@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-16T11:33:35.255Z",
-  "updatedTbilisi": "16 სექ. 2026, 15:33",
+  "updated": "2026-09-16T16:55:01.448Z",
+  "updatedTbilisi": "16 სექ. 2026, 20:55",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -175,12 +175,12 @@
         {
           "company": "connect",
           "label": "ქონექთი",
-          "price": 4.05,
+          "price": 4.1,
           "product": "ნანო სუპერი",
           "octane": "98",
           "cross": {
             "geogid": 4.14,
-            "diff": -0.09
+            "diff": -0.04
           }
         },
         {
@@ -392,7 +392,7 @@
     "super": {
       "company": "connect",
       "label": "ქონექთი",
-      "price": 4.05
+      "price": 4.1
     },
     "diesel": {
       "company": "gulf",
@@ -622,7 +622,7 @@
         {
           "name": "ნანო სუპერი",
           "octane": "98",
-          "price": 4.05,
+          "price": 4.1,
           "category": "super"
         },
         {
@@ -740,14 +740,6 @@
       "priceshub": 4.47,
       "geogid": 4.27,
       "diff": 0.2
-    },
-    {
-      "company": "connect",
-      "label": "ქონექთი",
-      "category": "super",
-      "priceshub": 4.05,
-      "geogid": 4.14,
-      "diff": -0.09
     },
     {
       "company": "connect",
