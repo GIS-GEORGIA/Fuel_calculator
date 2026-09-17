@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T04:52:41.495Z",
-  "updatedTbilisi": "17 სექ. 2026, 08:52",
+  "updated": "2026-09-17T11:41:18.139Z",
+  "updatedTbilisi": "17 სექ. 2026, 15:41",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -40,13 +40,6 @@
           }
         },
         {
-          "company": "lukoil",
-          "label": "ლუკოილი",
-          "price": 3.78,
-          "product": "ევრო რეგულარი",
-          "octane": "92"
-        },
-        {
           "company": "portal",
           "label": "პორტალი",
           "price": 3.79,
@@ -67,6 +60,13 @@
             "geogid": 3.82,
             "diff": 0
           }
+        },
+        {
+          "company": "lukoil",
+          "label": "ლუკოილი",
+          "price": 3.83,
+          "product": "ევრო რეგულარი",
+          "octane": "92"
         },
         {
           "company": "wissol",
@@ -132,13 +132,6 @@
           }
         },
         {
-          "company": "lukoil",
-          "label": "ლუკოილი",
-          "price": 3.98,
-          "product": "პრემიუმ ექტო",
-          "octane": "95"
-        },
-        {
           "company": "socar",
           "label": "სოკარი",
           "price": 4.02,
@@ -148,6 +141,13 @@
             "geogid": 4.02,
             "diff": 0
           }
+        },
+        {
+          "company": "lukoil",
+          "label": "ლუკოილი",
+          "price": 4.03,
+          "product": "პრემიუმ ექტო",
+          "octane": "95"
         },
         {
           "company": "wissol",
@@ -206,13 +206,6 @@
           }
         },
         {
-          "company": "lukoil",
-          "label": "ლუკოილი",
-          "price": 4.4,
-          "product": "სუპერ ექტო",
-          "octane": "98"
-        },
-        {
           "company": "socar",
           "label": "სოკარი",
           "price": 4.44,
@@ -233,6 +226,13 @@
             "geogid": 4.27,
             "diff": 0.2
           }
+        },
+        {
+          "company": "lukoil",
+          "label": "ლუკოილი",
+          "price": 4.48,
+          "product": "სუპერ ექტო",
+          "octane": "98"
         },
         {
           "company": "rompetrol",
@@ -305,13 +305,6 @@
           "octane": "51"
         },
         {
-          "company": "lukoil",
-          "label": "ლუკოილი",
-          "price": 4.67,
-          "product": "ევრო დიზელი",
-          "octane": "51"
-        },
-        {
           "company": "wissol",
           "label": "ვისოლი",
           "price": 4.74,
@@ -321,6 +314,13 @@
             "geogid": 4.74,
             "diff": 0
           }
+        },
+        {
+          "company": "lukoil",
+          "label": "ლუკოილი",
+          "price": 4.76,
+          "product": "ევრო დიზელი",
+          "octane": "51"
         }
       ]
     },
@@ -337,11 +337,11 @@
         {
           "company": "socar",
           "label": "სოკარი",
-          "price": 2.09,
+          "price": 1.75,
           "product": "თხევადი გაზი (LPG)",
           "octane": "",
           "cross": {
-            "geogid": 2.09,
+            "geogid": 1.75,
             "diff": 0
           }
         }
@@ -447,7 +447,7 @@
         {
           "name": "თხევადი გაზი (LPG)",
           "octane": "",
-          "price": 2.09,
+          "price": 1.75,
           "category": "lpg"
         },
         {
@@ -657,25 +657,25 @@
         {
           "name": "სუპერ ექტო",
           "octane": "98",
-          "price": 4.4,
+          "price": 4.48,
           "category": "super"
         },
         {
           "name": "პრემიუმ ექტო",
           "octane": "95",
-          "price": 3.98,
+          "price": 4.03,
           "category": "premium"
         },
         {
           "name": "ევრო რეგულარი",
           "octane": "92",
-          "price": 3.78,
+          "price": 3.83,
           "category": "regular"
         },
         {
           "name": "ევრო დიზელი",
           "octane": "51",
-          "price": 4.67,
+          "price": 4.76,
           "category": "diesel"
         }
       ]
