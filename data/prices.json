@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-16T21:17:47.704Z",
-  "updatedTbilisi": "17 სექ. 2026, 01:17",
+  "updated": "2026-09-17T04:52:41.495Z",
+  "updatedTbilisi": "17 სექ. 2026, 08:52",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -265,17 +265,6 @@
           "octane": "51"
         },
         {
-          "company": "portal",
-          "label": "პორტალი",
-          "price": 4.44,
-          "product": "ეფექტ დიზელი",
-          "octane": "51",
-          "cross": {
-            "geogid": 4.44,
-            "diff": 0
-          }
-        },
-        {
           "company": "connect",
           "label": "ქონექთი",
           "price": 4.45,
@@ -298,6 +287,17 @@
           }
         },
         {
+          "company": "portal",
+          "label": "პორტალი",
+          "price": 4.59,
+          "product": "ეფექტ დიზელი",
+          "octane": "51",
+          "cross": {
+            "geogid": 4.59,
+            "diff": 0
+          }
+        },
+        {
           "company": "rompetrol",
           "label": "რომპეტროლი",
           "price": 4.67,
@@ -314,11 +314,11 @@
         {
           "company": "wissol",
           "label": "ვისოლი",
-          "price": 4.69,
+          "price": 4.74,
           "product": "დიზელ ენერჯი",
           "octane": "51",
           "cross": {
-            "geogid": 4.69,
+            "geogid": 4.74,
             "diff": 0
           }
         }
@@ -523,19 +523,19 @@
         {
           "name": "ეკო დიზელი",
           "octane": "51",
-          "price": 4.73,
+          "price": 4.78,
           "category": "diesel"
         },
         {
           "name": "ევრო დიზელი",
           "octane": "51",
-          "price": 4.77,
+          "price": 4.82,
           "category": "diesel"
         },
         {
           "name": "დიზელ ენერჯი",
           "octane": "51",
-          "price": 4.69,
+          "price": 4.74,
           "category": "diesel"
         },
         {
@@ -605,13 +605,13 @@
         {
           "name": "ევრო დიზელი",
           "octane": "51",
-          "price": 4.59,
+          "price": 4.69,
           "category": "diesel"
         },
         {
           "name": "ეფექტ დიზელი",
           "octane": "51",
-          "price": 4.44,
+          "price": 4.59,
           "category": "diesel"
         }
       ]
