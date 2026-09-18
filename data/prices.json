@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T21:22:27.684Z",
-  "updatedTbilisi": "18 სექ. 2026, 01:22",
+  "updated": "2026-09-18T04:43:24.631Z",
+  "updatedTbilisi": "18 სექ. 2026, 08:43",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -276,17 +276,6 @@
           }
         },
         {
-          "company": "socar",
-          "label": "სოკარი",
-          "price": 4.52,
-          "product": "ევრო 5 დიზელი",
-          "octane": "53",
-          "cross": {
-            "geogid": 4.52,
-            "diff": 0
-          }
-        },
-        {
           "company": "portal",
           "label": "პორტალი",
           "price": 4.59,
@@ -294,6 +283,17 @@
           "octane": "51",
           "cross": {
             "geogid": 4.59,
+            "diff": 0
+          }
+        },
+        {
+          "company": "socar",
+          "label": "სოკარი",
+          "price": 4.64,
+          "product": "ევრო 5 დიზელი",
+          "octane": "53",
+          "cross": {
+            "geogid": 4.64,
             "diff": 0
           }
         },
@@ -435,13 +435,13 @@
         {
           "name": "ნანო ევრო 5 დიზელი",
           "octane": "53",
-          "price": 4.62,
+          "price": 4.74,
           "category": "diesel"
         },
         {
           "name": "ევრო 5 დიზელი",
           "octane": "53",
-          "price": 4.52,
+          "price": 4.64,
           "category": "diesel"
         },
         {
