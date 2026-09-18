@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-18T04:43:24.631Z",
-  "updatedTbilisi": "18 სექ. 2026, 08:43",
+  "updated": "2026-09-18T11:14:24.708Z",
+  "updatedTbilisi": "18 სექ. 2026, 15:14",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -260,19 +260,19 @@
         {
           "company": "neogas",
           "label": "ნეოგაზი",
-          "price": 4.3,
+          "price": 4.35,
           "product": "ევრო დიზელი",
           "octane": "51"
         },
         {
           "company": "connect",
           "label": "ქონექთი",
-          "price": 4.45,
+          "price": 4.5,
           "product": "დიზელი",
           "octane": "51",
           "cross": {
             "geogid": 4.23,
-            "diff": 0.22
+            "diff": 0.27
           }
         },
         {
@@ -640,13 +640,13 @@
         {
           "name": "ევრო დიზელი",
           "octane": "51",
-          "price": 4.6,
+          "price": 4.65,
           "category": "diesel"
         },
         {
           "name": "დიზელი",
           "octane": "51",
-          "price": 4.45,
+          "price": 4.5,
           "category": "diesel"
         }
       ]
@@ -698,7 +698,7 @@
         {
           "name": "ევრო დიზელი",
           "octane": "51",
-          "price": 4.3,
+          "price": 4.35,
           "category": "diesel"
         },
         {
@@ -745,9 +745,9 @@
       "company": "connect",
       "label": "ქონექთი",
       "category": "diesel",
-      "priceshub": 4.45,
+      "priceshub": 4.5,
       "geogid": 4.23,
-      "diff": 0.22
+      "diff": 0.27
     }
   ]
 }
