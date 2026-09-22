@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-22T00:07:05.137Z",
-  "updatedTbilisi": "22 სექ. 2026, 04:07",
+  "updated": "2026-09-22T04:56:09.075Z",
+  "updatedTbilisi": "22 სექ. 2026, 08:56",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -82,8 +82,8 @@
           "product": "ევრო რეგულარი",
           "octane": "92",
           "cross": {
-            "geogid": 3.84,
-            "diff": 0.05
+            "geogid": 3.89,
+            "diff": 0
           }
         }
       ]
@@ -127,8 +127,8 @@
           "product": "ეფექტ პრემიუმი",
           "octane": "95",
           "cross": {
-            "geogid": 3.94,
-            "diff": 0.05
+            "geogid": 3.99,
+            "diff": 0
           }
         },
         {
@@ -163,8 +163,8 @@
           "product": "ეკო პრემიუმი",
           "octane": "95",
           "cross": {
-            "geogid": 4.04,
-            "diff": 0.05
+            "geogid": 4.09,
+            "diff": 0
           }
         }
       ]
@@ -179,8 +179,8 @@
           "product": "ნანო სუპერი",
           "octane": "98",
           "cross": {
-            "geogid": 4.14,
-            "diff": -0.04
+            "geogid": 4.19,
+            "diff": -0.09
           }
         },
         {
@@ -190,8 +190,8 @@
           "product": "ეფექტ სუპერი",
           "octane": "98",
           "cross": {
-            "geogid": 4.14,
-            "diff": 0.05
+            "geogid": 4.19,
+            "diff": 0
           }
         },
         {
@@ -282,8 +282,8 @@
           "product": "ეფექტ დიზელი",
           "octane": "51",
           "cross": {
-            "geogid": 4.59,
-            "diff": 0.05
+            "geogid": 4.64,
+            "diff": 0
           }
         },
         {
@@ -300,8 +300,8 @@
           "product": "ევრო 5 დიზელი",
           "octane": "53",
           "cross": {
-            "geogid": 4.64,
-            "diff": 0.06
+            "geogid": 4.7,
+            "diff": 0
           }
         },
         {
@@ -318,8 +318,8 @@
           "product": "დიზელ ენერჯი",
           "octane": "51",
           "cross": {
-            "geogid": 4.74,
-            "diff": 0.05
+            "geogid": 4.79,
+            "diff": 0
           }
         }
       ]
@@ -718,28 +718,12 @@
   },
   "discrepancies": [
     {
-      "company": "wissol",
-      "label": "ვისოლი",
-      "category": "regular",
-      "priceshub": 3.89,
-      "geogid": 3.84,
-      "diff": 0.05
-    },
-    {
       "company": "connect",
       "label": "ქონექთი",
       "category": "regular",
       "priceshub": 3.75,
       "geogid": 3.65,
       "diff": 0.1
-    },
-    {
-      "company": "portal",
-      "label": "პორტალი",
-      "category": "premium",
-      "priceshub": 3.99,
-      "geogid": 3.94,
-      "diff": 0.05
     },
     {
       "company": "connect",
@@ -758,20 +742,12 @@
       "diff": 0.27
     },
     {
-      "company": "portal",
-      "label": "პორტალი",
+      "company": "connect",
+      "label": "ქონექთი",
       "category": "super",
-      "priceshub": 4.19,
-      "geogid": 4.14,
-      "diff": 0.05
-    },
-    {
-      "company": "socar",
-      "label": "სოკარი",
-      "category": "diesel",
-      "priceshub": 4.7,
-      "geogid": 4.64,
-      "diff": 0.06
+      "priceshub": 4.1,
+      "geogid": 4.19,
+      "diff": -0.09
     },
     {
       "company": "connect",
