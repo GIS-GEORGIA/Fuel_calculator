@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24T04:50:34.346Z",
-  "updatedTbilisi": "24 სექ. 2026, 08:50",
+  "updated": "2026-09-24T11:45:34.094Z",
+  "updatedTbilisi": "24 სექ. 2026, 15:45",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -62,18 +62,18 @@
           }
         },
         {
-          "company": "lukoil",
-          "label": "ლუკოილი",
-          "price": 3.83,
-          "product": "ევრო რეგულარი",
-          "octane": "92"
-        },
-        {
           "company": "rompetrol",
           "label": "რომპეტროლი",
           "price": 3.84,
           "product": "ევრო რეგულარი",
           "octane": "92/93"
+        },
+        {
+          "company": "lukoil",
+          "label": "ლუკოილი",
+          "price": 3.85,
+          "product": "ევრო რეგულარი",
+          "octane": "92"
         },
         {
           "company": "wissol",
@@ -143,17 +143,17 @@
           }
         },
         {
-          "company": "lukoil",
-          "label": "ლუკოილი",
-          "price": 4.03,
-          "product": "პრემიუმ ექტო",
-          "octane": "95"
-        },
-        {
           "company": "rompetrol",
           "label": "რომპეტროლი",
           "price": 4.05,
           "product": "ეფიქს პრემიუმი",
+          "octane": "95"
+        },
+        {
+          "company": "lukoil",
+          "label": "ლუკოილი",
+          "price": 4.05,
+          "product": "პრემიუმ ექტო",
           "octane": "95"
         },
         {
@@ -217,13 +217,6 @@
           }
         },
         {
-          "company": "lukoil",
-          "label": "ლუკოილი",
-          "price": 4.48,
-          "product": "სუპერ ექტო",
-          "octane": "98"
-        },
-        {
           "company": "rompetrol",
           "label": "რომპეტროლი",
           "price": 4.5,
@@ -240,6 +233,13 @@
             "geogid": 4.27,
             "diff": 0.27
           }
+        },
+        {
+          "company": "lukoil",
+          "label": "ლუკოილი",
+          "price": 4.55,
+          "product": "სუპერ ექტო",
+          "octane": "98"
         }
       ]
     },
@@ -298,13 +298,6 @@
           }
         },
         {
-          "company": "lukoil",
-          "label": "ლუკოილი",
-          "price": 4.76,
-          "product": "ევრო დიზელი",
-          "octane": "51"
-        },
-        {
           "company": "wissol",
           "label": "ვისოლი",
           "price": 4.79,
@@ -319,6 +312,13 @@
           "company": "rompetrol",
           "label": "რომპეტროლი",
           "price": 4.79,
+          "product": "ევრო დიზელი",
+          "octane": "51"
+        },
+        {
+          "company": "lukoil",
+          "label": "ლუკოილი",
+          "price": 4.82,
           "product": "ევრო დიზელი",
           "octane": "51"
         }
@@ -657,25 +657,25 @@
         {
           "name": "სუპერ ექტო",
           "octane": "98",
-          "price": 4.48,
+          "price": 4.55,
           "category": "super"
         },
         {
           "name": "პრემიუმ ექტო",
           "octane": "95",
-          "price": 4.03,
+          "price": 4.05,
           "category": "premium"
         },
         {
           "name": "ევრო რეგულარი",
           "octane": "92",
-          "price": 3.83,
+          "price": 3.85,
           "category": "regular"
         },
         {
           "name": "ევრო დიზელი",
           "octane": "51",
-          "price": 4.76,
+          "price": 4.82,
           "category": "diesel"
         }
       ]
