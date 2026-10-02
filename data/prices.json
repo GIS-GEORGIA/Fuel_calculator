@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-02T00:47:27.387Z",
-  "updatedTbilisi": "2 ოქტ. 2026, 04:47",
+  "updated": "2026-10-02T09:45:58.640Z",
+  "updatedTbilisi": "2 ოქტ. 2026, 13:45",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -13,7 +13,7 @@
         {
           "company": "neogas",
           "label": "ნეოგაზი",
-          "price": 3.55,
+          "price": 3.6,
           "product": "რეგულარი",
           "octane": "92"
         },
@@ -260,7 +260,7 @@
         {
           "company": "neogas",
           "label": "ნეოგაზი",
-          "price": 4.5,
+          "price": 4.55,
           "product": "ევრო დიზელი",
           "octane": "51"
         },
@@ -311,8 +311,8 @@
           "product": "დიზელ ენერჯი",
           "octane": "51",
           "cross": {
-            "geogid": 4.85,
-            "diff": 0.06
+            "geogid": 4.91,
+            "diff": 0
           }
         },
         {
@@ -382,7 +382,7 @@
     "regular": {
       "company": "neogas",
       "label": "ნეოგაზი",
-      "price": 3.55
+      "price": 3.6
     },
     "premium": {
       "company": "neogas",
@@ -692,13 +692,13 @@
         {
           "name": "რეგულარი",
           "octane": "92",
-          "price": 3.55,
+          "price": 3.6,
           "category": "regular"
         },
         {
           "name": "ევრო დიზელი",
           "octane": "51",
-          "price": 4.5,
+          "price": 4.55,
           "category": "diesel"
         },
         {
@@ -740,14 +740,6 @@
       "priceshub": 4.54,
       "geogid": 4.27,
       "diff": 0.27
-    },
-    {
-      "company": "wissol",
-      "label": "ვისოლი",
-      "category": "diesel",
-      "priceshub": 4.91,
-      "geogid": 4.85,
-      "diff": 0.06
     },
     {
       "company": "connect",
