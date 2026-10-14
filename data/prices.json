@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T00:18:15.353Z",
-  "updatedTbilisi": "14 ოქტ. 2026, 04:18",
+  "updated": "2026-10-14T08:42:36.825Z",
+  "updatedTbilisi": "14 ოქტ. 2026, 12:42",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -13,7 +13,7 @@
         {
           "company": "neogas",
           "label": "ნეოგაზი",
-          "price": 3.75,
+          "price": 3.8,
           "product": "რეგულარი",
           "octane": "92"
         },
@@ -50,7 +50,7 @@
         {
           "company": "neogas",
           "label": "ნეოგაზი",
-          "price": 3.8,
+          "price": 3.85,
           "product": "პრემიუმი",
           "octane": "95"
         },
@@ -117,7 +117,7 @@
         {
           "company": "neogas",
           "label": "ნეოგაზი",
-          "price": 4.6,
+          "price": 4.65,
           "product": "ევრო დიზელი",
           "octane": "51"
         },
@@ -199,12 +199,12 @@
     "regular": {
       "company": "neogas",
       "label": "ნეოგაზი",
-      "price": 3.75
+      "price": 3.8
     },
     "premium": {
       "company": "neogas",
       "label": "ნეოგაზი",
-      "price": 3.8
+      "price": 3.85
     },
     "super": {
       "company": "rompetrol",
@@ -214,7 +214,7 @@
     "diesel": {
       "company": "neogas",
       "label": "ნეოგაზი",
-      "price": 4.6
+      "price": 4.65
     },
     "lpg": {
       "company": "neogas",
@@ -345,19 +345,19 @@
         {
           "name": "პრემიუმი",
           "octane": "95",
-          "price": 3.8,
+          "price": 3.85,
           "category": "premium"
         },
         {
           "name": "რეგულარი",
           "octane": "92",
-          "price": 3.75,
+          "price": 3.8,
           "category": "regular"
         },
         {
           "name": "ევრო დიზელი",
           "octane": "51",
-          "price": 4.6,
+          "price": 4.65,
           "category": "diesel"
         },
         {
