@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T04:44:40.232Z",
-  "updatedTbilisi": "22 ოქტ. 2026, 08:44",
+  "updated": "2026-10-22T11:52:11.371Z",
+  "updatedTbilisi": "22 ოქტ. 2026, 15:52",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -34,11 +34,11 @@
         {
           "company": "socar",
           "label": "სოკარი",
-          "price": 4.02,
+          "price": 4.06,
           "product": "ნანო ევრო რეგულარი",
           "octane": "92/93",
           "cross": {
-            "geogid": 4.02,
+            "geogid": 4.06,
             "diff": 0
           }
         }
@@ -71,11 +71,11 @@
         {
           "company": "socar",
           "label": "სოკარი",
-          "price": 4.31,
+          "price": 4.37,
           "product": "ნანო პრემიუმი",
           "octane": "95",
           "cross": {
-            "geogid": 4.31,
+            "geogid": 4.37,
             "diff": 0
           }
         }
@@ -101,11 +101,11 @@
         {
           "company": "socar",
           "label": "სოკარი",
-          "price": 4.62,
+          "price": 4.65,
           "product": "ნანო სუპერი",
           "octane": "98",
           "cross": {
-            "geogid": 4.62,
+            "geogid": 4.65,
             "diff": 0
           }
         }
@@ -234,19 +234,19 @@
         {
           "name": "ნანო სუპერი",
           "octane": "98",
-          "price": 4.62,
+          "price": 4.65,
           "category": "super"
         },
         {
           "name": "ნანო პრემიუმი",
           "octane": "95",
-          "price": 4.31,
+          "price": 4.37,
           "category": "premium"
         },
         {
           "name": "ნანო ევრო რეგულარი",
           "octane": "92/93",
-          "price": 4.02,
+          "price": 4.06,
           "category": "regular"
         },
         {
