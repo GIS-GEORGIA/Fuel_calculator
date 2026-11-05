@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T06:45:37.428Z",
-  "updatedTbilisi": "5 ნოე. 2026, 10:45",
+  "updated": "2026-11-05T17:23:56.363Z",
+  "updatedTbilisi": "5 ნოე. 2026, 21:23",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -152,22 +152,22 @@
       "label": "თხევადი გაზი (LPG)",
       "ranking": [
         {
+          "company": "socar",
+          "label": "სოკარი",
+          "price": 1.75,
+          "product": "თხევადი გაზი (LPG)",
+          "octane": "",
+          "cross": {
+            "geogid": 1.75,
+            "diff": 0
+          }
+        },
+        {
           "company": "neogas",
           "label": "ნეოგაზი",
           "price": 1.85,
           "product": "თხევადი გაზი (LPG)",
           "octane": ""
-        },
-        {
-          "company": "socar",
-          "label": "სოკარი",
-          "price": 2.09,
-          "product": "თხევადი გაზი (LPG)",
-          "octane": "",
-          "cross": {
-            "geogid": 2.09,
-            "diff": 0
-          }
         }
       ]
     },
@@ -217,9 +217,9 @@
       "price": 4.65
     },
     "lpg": {
-      "company": "neogas",
-      "label": "ნეოგაზი",
-      "price": 1.85
+      "company": "socar",
+      "label": "სოკარი",
+      "price": 1.75
     },
     "cng": {
       "company": "socar",
@@ -264,7 +264,7 @@
         {
           "name": "თხევადი გაზი (LPG)",
           "octane": "",
-          "price": 2.09,
+          "price": 1.75,
           "category": "lpg"
         },
         {
