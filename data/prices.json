@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T06:18:50.087Z",
-  "updatedTbilisi": "11 ნოე. 2026, 10:18",
+  "updated": "2026-11-11T17:07:18.501Z",
+  "updatedTbilisi": "11 ნოე. 2026, 21:07",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -20,7 +20,7 @@
         {
           "company": "rompetrol",
           "label": "რომპეტროლი",
-          "price": 3.98,
+          "price": 3.94,
           "product": "ევრო რეგულარი",
           "octane": "92/93"
         },
@@ -57,7 +57,7 @@
         {
           "company": "rompetrol",
           "label": "რომპეტროლი",
-          "price": 4.28,
+          "price": 4.25,
           "product": "ეფიქს პრემიუმი",
           "octane": "95"
         },
@@ -87,7 +87,7 @@
         {
           "company": "rompetrol",
           "label": "რომპეტროლი",
-          "price": 4.58,
+          "price": 4.55,
           "product": "ეფიქს სუპერი",
           "octane": "98"
         },
@@ -124,7 +124,7 @@
         {
           "company": "rompetrol",
           "label": "რომპეტროლი",
-          "price": 4.87,
+          "price": 4.84,
           "product": "ევრო დიზელი",
           "octane": "51"
         },
@@ -209,7 +209,7 @@
     "super": {
       "company": "rompetrol",
       "label": "რომპეტროლი",
-      "price": 4.58
+      "price": 4.55
     },
     "diesel": {
       "company": "neogas",
@@ -281,31 +281,31 @@
         {
           "name": "ეფიქს სუპერი",
           "octane": "98",
-          "price": 4.58,
+          "price": 4.55,
           "category": "super"
         },
         {
           "name": "ეფიქს პრემიუმი",
           "octane": "95",
-          "price": 4.28,
+          "price": 4.25,
           "category": "premium"
         },
         {
           "name": "ევრო რეგულარი",
           "octane": "92/93",
-          "price": 3.98,
+          "price": 3.94,
           "category": "regular"
         },
         {
           "name": "ეფიქს ევრო დიზელი",
           "octane": "51",
-          "price": 4.94,
+          "price": 4.89,
           "category": "diesel"
         },
         {
           "name": "ევრო დიზელი",
           "octane": "51",
-          "price": 4.87,
+          "price": 4.84,
           "category": "diesel"
         }
       ]
