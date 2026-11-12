@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T00:42:57.018Z",
-  "updatedTbilisi": "12 ნოე. 2026, 04:42",
+  "updated": "2026-11-12T11:08:13.917Z",
+  "updatedTbilisi": "12 ნოე. 2026, 15:08",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -18,29 +18,15 @@
           "octane": "92"
         },
         {
-          "company": "rompetrol",
-          "label": "რომპეტროლი",
-          "price": 3.94,
-          "product": "ევრო რეგულარი",
-          "octane": "92/93"
-        },
-        {
           "company": "socar",
           "label": "სოკარი",
           "price": 4,
           "product": "ნანო ევრო რეგულარი",
           "octane": "92/93",
           "cross": {
-            "geogid": 4.06,
-            "diff": -0.06
+            "geogid": 4,
+            "diff": 0
           }
-        },
-        {
-          "company": "lukoil",
-          "label": "ლუკოილი",
-          "price": 4.02,
-          "product": "ევრო რეგულარი",
-          "octane": "92"
         }
       ]
     },
@@ -55,42 +41,21 @@
           "octane": "95"
         },
         {
-          "company": "rompetrol",
-          "label": "რომპეტროლი",
-          "price": 4.25,
-          "product": "ეფიქს პრემიუმი",
-          "octane": "95"
-        },
-        {
           "company": "socar",
           "label": "სოკარი",
           "price": 4.31,
           "product": "ნანო პრემიუმი",
           "octane": "95",
           "cross": {
-            "geogid": 4.37,
-            "diff": -0.06
+            "geogid": 4.31,
+            "diff": 0
           }
-        },
-        {
-          "company": "lukoil",
-          "label": "ლუკოილი",
-          "price": 4.32,
-          "product": "პრემიუმ ექტო",
-          "octane": "95"
         }
       ]
     },
     "super": {
       "label": "სუპერი (98)",
       "ranking": [
-        {
-          "company": "rompetrol",
-          "label": "რომპეტროლი",
-          "price": 4.55,
-          "product": "ეფიქს სუპერი",
-          "octane": "98"
-        },
         {
           "company": "socar",
           "label": "სოკარი",
@@ -101,13 +66,6 @@
             "geogid": 4.65,
             "diff": 0
           }
-        },
-        {
-          "company": "lukoil",
-          "label": "ლუკოილი",
-          "price": 4.65,
-          "product": "სუპერ ექტო",
-          "octane": "98"
         }
       ]
     },
@@ -122,29 +80,15 @@
           "octane": "51"
         },
         {
-          "company": "rompetrol",
-          "label": "რომპეტროლი",
-          "price": 4.84,
-          "product": "ევრო დიზელი",
-          "octane": "51"
-        },
-        {
           "company": "socar",
           "label": "სოკარი",
           "price": 4.85,
           "product": "ევრო 5 დიზელი",
           "octane": "53",
           "cross": {
-            "geogid": 4.9,
-            "diff": -0.05
+            "geogid": 4.85,
+            "diff": 0
           }
-        },
-        {
-          "company": "lukoil",
-          "label": "ლუკოილი",
-          "price": 5.02,
-          "product": "ევრო დიზელი",
-          "octane": "51"
         }
       ]
     },
@@ -207,9 +151,9 @@
       "price": 3.9
     },
     "super": {
-      "company": "rompetrol",
-      "label": "რომპეტროლი",
-      "price": 4.55
+      "company": "socar",
+      "label": "სოკარი",
+      "price": 4.65
     },
     "diesel": {
       "company": "neogas",
@@ -275,70 +219,6 @@
         }
       ]
     },
-    "rompetrol": {
-      "label": "რომპეტროლი",
-      "products": [
-        {
-          "name": "ეფიქს სუპერი",
-          "octane": "98",
-          "price": 4.55,
-          "category": "super"
-        },
-        {
-          "name": "ეფიქს პრემიუმი",
-          "octane": "95",
-          "price": 4.25,
-          "category": "premium"
-        },
-        {
-          "name": "ევრო რეგულარი",
-          "octane": "92/93",
-          "price": 3.94,
-          "category": "regular"
-        },
-        {
-          "name": "ეფიქს ევრო დიზელი",
-          "octane": "51",
-          "price": 4.89,
-          "category": "diesel"
-        },
-        {
-          "name": "ევრო დიზელი",
-          "octane": "51",
-          "price": 4.84,
-          "category": "diesel"
-        }
-      ]
-    },
-    "lukoil": {
-      "label": "ლუკოილი",
-      "products": [
-        {
-          "name": "სუპერ ექტო",
-          "octane": "98",
-          "price": 4.65,
-          "category": "super"
-        },
-        {
-          "name": "პრემიუმ ექტო",
-          "octane": "95",
-          "price": 4.32,
-          "category": "premium"
-        },
-        {
-          "name": "ევრო რეგულარი",
-          "octane": "92",
-          "price": 4.02,
-          "category": "regular"
-        },
-        {
-          "name": "ევრო დიზელი",
-          "octane": "51",
-          "price": 5.02,
-          "category": "diesel"
-        }
-      ]
-    },
     "neogas": {
       "label": "ნეოგაზი",
       "products": [
@@ -375,30 +255,5 @@
       ]
     }
   },
-  "discrepancies": [
-    {
-      "company": "socar",
-      "label": "სოკარი",
-      "category": "regular",
-      "priceshub": 4,
-      "geogid": 4.06,
-      "diff": -0.06
-    },
-    {
-      "company": "socar",
-      "label": "სოკარი",
-      "category": "premium",
-      "priceshub": 4.31,
-      "geogid": 4.37,
-      "diff": -0.06
-    },
-    {
-      "company": "socar",
-      "label": "სოკარი",
-      "category": "diesel",
-      "priceshub": 4.85,
-      "geogid": 4.9,
-      "diff": -0.05
-    }
-  ]
+  "discrepancies": []
 }
