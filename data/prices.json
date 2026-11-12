@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T17:07:18.501Z",
-  "updatedTbilisi": "11 ნოე. 2026, 21:07",
+  "updated": "2026-11-12T00:42:57.018Z",
+  "updatedTbilisi": "12 ნოე. 2026, 04:42",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -25,22 +25,22 @@
           "octane": "92/93"
         },
         {
+          "company": "socar",
+          "label": "სოკარი",
+          "price": 4,
+          "product": "ნანო ევრო რეგულარი",
+          "octane": "92/93",
+          "cross": {
+            "geogid": 4.06,
+            "diff": -0.06
+          }
+        },
+        {
           "company": "lukoil",
           "label": "ლუკოილი",
           "price": 4.02,
           "product": "ევრო რეგულარი",
           "octane": "92"
-        },
-        {
-          "company": "socar",
-          "label": "სოკარი",
-          "price": 4.06,
-          "product": "ნანო ევრო რეგულარი",
-          "octane": "92/93",
-          "cross": {
-            "geogid": 4.06,
-            "diff": 0
-          }
         }
       ]
     },
@@ -62,22 +62,22 @@
           "octane": "95"
         },
         {
+          "company": "socar",
+          "label": "სოკარი",
+          "price": 4.31,
+          "product": "ნანო პრემიუმი",
+          "octane": "95",
+          "cross": {
+            "geogid": 4.37,
+            "diff": -0.06
+          }
+        },
+        {
           "company": "lukoil",
           "label": "ლუკოილი",
           "price": 4.32,
           "product": "პრემიუმ ექტო",
           "octane": "95"
-        },
-        {
-          "company": "socar",
-          "label": "სოკარი",
-          "price": 4.37,
-          "product": "ნანო პრემიუმი",
-          "octane": "95",
-          "cross": {
-            "geogid": 4.37,
-            "diff": 0
-          }
         }
       ]
     },
@@ -131,12 +131,12 @@
         {
           "company": "socar",
           "label": "სოკარი",
-          "price": 4.9,
+          "price": 4.85,
           "product": "ევრო 5 დიზელი",
           "octane": "53",
           "cross": {
             "geogid": 4.9,
-            "diff": 0
+            "diff": -0.05
           }
         },
         {
@@ -240,25 +240,25 @@
         {
           "name": "ნანო პრემიუმი",
           "octane": "95",
-          "price": 4.37,
+          "price": 4.31,
           "category": "premium"
         },
         {
           "name": "ნანო ევრო რეგულარი",
           "octane": "92/93",
-          "price": 4.06,
+          "price": 4,
           "category": "regular"
         },
         {
           "name": "ნანო ევრო 5 დიზელი",
           "octane": "53",
-          "price": 4.96,
+          "price": 4.9,
           "category": "diesel"
         },
         {
           "name": "ევრო 5 დიზელი",
           "octane": "53",
-          "price": 4.9,
+          "price": 4.85,
           "category": "diesel"
         },
         {
@@ -375,5 +375,30 @@
       ]
     }
   },
-  "discrepancies": []
+  "discrepancies": [
+    {
+      "company": "socar",
+      "label": "სოკარი",
+      "category": "regular",
+      "priceshub": 4,
+      "geogid": 4.06,
+      "diff": -0.06
+    },
+    {
+      "company": "socar",
+      "label": "სოკარი",
+      "category": "premium",
+      "priceshub": 4.31,
+      "geogid": 4.37,
+      "diff": -0.06
+    },
+    {
+      "company": "socar",
+      "label": "სოკარი",
+      "category": "diesel",
+      "priceshub": 4.85,
+      "geogid": 4.9,
+      "diff": -0.05
+    }
+  ]
 }
