@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T01:48:59.357Z",
-  "updatedTbilisi": "13 ნოე. 2026, 05:48",
+  "updated": "2026-11-13T10:58:09.444Z",
+  "updatedTbilisi": "13 ნოე. 2026, 14:58",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -142,7 +142,7 @@
         {
           "company": "lukoil",
           "label": "ლუკოილი",
-          "price": 5.02,
+          "price": 4.97,
           "product": "ევრო დიზელი",
           "octane": "51"
         }
@@ -334,7 +334,7 @@
         {
           "name": "ევრო დიზელი",
           "octane": "51",
-          "price": 5.02,
+          "price": 4.97,
           "category": "diesel"
         }
       ]
