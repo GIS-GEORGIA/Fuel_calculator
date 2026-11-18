@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T00:57:04.732Z",
-  "updatedTbilisi": "18 ნოე. 2026, 04:57",
+  "updated": "2026-11-18T11:41:14.123Z",
+  "updatedTbilisi": "18 ნოე. 2026, 15:41",
   "currency": "GEL",
   "sources": [
     "priceshub.ge",
@@ -13,7 +13,7 @@
         {
           "company": "neogas",
           "label": "ნეოგაზი",
-          "price": 3.75,
+          "price": 3.7,
           "product": "რეგულარი",
           "octane": "92"
         },
@@ -199,7 +199,7 @@
     "regular": {
       "company": "neogas",
       "label": "ნეოგაზი",
-      "price": 3.75
+      "price": 3.7
     },
     "premium": {
       "company": "neogas",
@@ -351,7 +351,7 @@
         {
           "name": "რეგულარი",
           "octane": "92",
-          "price": 3.75,
+          "price": 3.7,
           "category": "regular"
         },
         {
